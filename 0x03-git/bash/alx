@@ -1,5 +1,10 @@
 <<<<<<< HEAD
 echo ALX School is so cool!
 =======
+<<<<<<< HEAD
 echo "ALX School"
 >>>>>>> 0fa58b789ec0b20494354602985a498c63650616
+=======
+echo "ALX School is so cool!"
+>>>>>>> 90f54aa7890571b79db094c6692889bd16ea70d9
+>>>>>>> update_script
